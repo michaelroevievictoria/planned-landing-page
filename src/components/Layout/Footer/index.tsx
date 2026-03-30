@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           aria-label="Footer navigation"
           className="flex flex-col items-center md:items-end gap-1 md:gap-2 text-[#1E4D38] text-center md:text-right"
         >
-          <Link href="/terms-of-service" className="text-base md:text-xl hover:underline">
+          <Link href="/terms-and-condition" className="text-base md:text-xl hover:underline">
             TERMS + CONDITIONS
           </Link>
           <Link href="/privacy-policy" className="text-base md:text-xl hover:underline">
