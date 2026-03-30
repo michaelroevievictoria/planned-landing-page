@@ -142,10 +142,10 @@ const HeroSection: React.FC = () => {
               <p className="text-[#1E4D38] font-poppins text-xs sm:text-sm lg:text-xl font-semibold md:block lg:hidden">
                 Import Any<br /> Recipe
               </p>
-              {/* <p className={classNameForText}>
-                Automatically generate your weekly <br /> grocery list & shop
-                online or in store
-              </p> */}
+              <p className={classNameForText}>
+                Save recipes from websites or <br /> social media with a
+                tap
+              </p>
             </div>
 
             {/* Item 3 */}
